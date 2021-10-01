@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.1.5",
+    "jest": "^27.2.4"
+  },
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tcpenn/team-profile-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tcpenn/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/Tcpenn/team-profile-generator#readme",
+  "description": ""
+}
