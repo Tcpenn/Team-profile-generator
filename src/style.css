@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* Header Styles */
+  header {
+    padding: 25px 0;
+    text-align: center;
+    color: #ffffff;
+    background-color: rgb(34, 60, 129);
+    margin: 10px;
+  }
+  
+  /* Main Content Styles */
+  main {
+    margin: 30px auto 0;
+    width: 70%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  
+  /* Team Member Cards Styles */
+  .team-member {
+    width: 225px;
+    margin: 30px 14px;
+    border: 1px solid black;
+  }
+  
+  .member-title {
+    padding: 10px 10px;
+    color: white;
+    background-color: rgb(0, 102, 255);
+  }
+  
+  .member-info-container {
+    height: 190px;
+    background-color: rgb(234, 232, 243);
+    padding: 30px 10px;
+  }
+  
+  .member-info {
+    background-color: white;
+  }
+  .member-info p {
+    padding: 0 5px;
+    font-size: 14px;
+    line-height: 2.25;
+    border: 1px solid rgb(218, 212, 240);
+  }

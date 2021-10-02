@@ -12,8 +12,9 @@
   header {
     padding: 25px 0;
     text-align: center;
-    color: white;
-    background-color: rgb(22, 185, 16);
+    color: #ffffff;
+    background-color: rgb(34, 60, 129);
+    margin: 10px;
   }
   
   /* Main Content Styles */
