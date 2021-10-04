@@ -6,7 +6,7 @@ class HTMLTemplate {
         for (let i =0; i < employeeDataArr.length; i++) {
             //if manager 
             if (employeeDataArr[i].getRole() === 'Manager') {
-                const {number, id, email, officeNumber} = employeeDataArr[i];
+                const {name, id, email, officeNumber} = employeeDataArr[i];
                 teamCardsHtml += `     
                 <div class="team-member">
                     <div class="member-title">
