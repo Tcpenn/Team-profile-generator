@@ -25,7 +25,7 @@ this will install all the required dependencies for the application. Now the app
 
 navigate to the clone direcotry and enter the command "node index" then answer the command line prompts to generate the webpage.
 
-walkthrough video placeholder
+[Walkthrough video](https://drive.google.com/file/d/1iVnwHCx1qJ3DOY7l-L4MyPvaoWcez9LM/view?usp=sharing)
 
 ## License
 
