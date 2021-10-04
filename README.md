@@ -15,13 +15,13 @@ Then generates a webpage that desplays the employee, their name, id number, emai
 * [Questions](#questions)
 
 
-## Installations
+## Installation
 To use this program you will need to install node.js [here](https://nodejs.org/en/). 
 Then clone this repository in your desired local directory, then inside the cloned repository run the command 'npm install', 
 this will install all the required dependencies for the application. Now the application is now ready to use.
 
 ## Usage
-screenshot placeholder
+![A screenshot of a sample team](./screenshot/screenshot.png)
 
 navigate to the clone direcotry and enter the command "node index" then answer the command line prompts to generate the webpage.
 
@@ -29,7 +29,7 @@ walkthrough video placeholder
 
 ## License
 
-[MTI](./LICENCE.txt
+[MTI](./LICENCE.txt)
 
 ## Credits
 
